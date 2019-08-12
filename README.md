@@ -61,12 +61,14 @@ helper.py - Auxiliary file provided by Udacity
     * Use GPU for inference: ```python predict.py input checkpoint --gpu```
 
 ## Licensing <a name="licensing"></a>
-[License file](LICENSE)
+[License file](https://github.com/ricamos/ImageClassifier/blob/master/LICENSE)
 
 ## Authors <a name="author"></a>
  Udacity provide some tips and guide me, but for the most part the code is from Ricardo Coelho.
 
 ## Acknowledgements <a name="ack"></a>
 Neural Networks
+
 [argparse module](https://docs.python.org/3/library/argparse.html)
+
 Deep Learning With PyTorch
