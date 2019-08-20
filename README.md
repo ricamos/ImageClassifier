@@ -1,4 +1,4 @@
-# Write A Data Science Blog Post 
+# Create Your Own Image Classifier
 
 ## Table of Contents:
 
